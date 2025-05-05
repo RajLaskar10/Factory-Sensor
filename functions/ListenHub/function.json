@@ -1,0 +1,18 @@
+{
+    "bindings": [
+      {
+        "type": "eventHubTrigger",
+        "name": "event",
+        "direction": "in",
+        "eventHubName": "messages/events",
+        "connection": "IOT_HUB_CONNECTION_STRING"
+      },
+      {
+        "name": "outBlob",
+        "type": "blob",
+        "direction": "out",
+        "path": "hot-alerts/{rand-guid}.json",
+        "connection": "STORAGE_CONNECTION_STRING"
+      }
+    ]
+  }
