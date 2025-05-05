@@ -25,7 +25,7 @@ if not conn_str:
 try:
     container = ContainerClient.from_connection_string(conn_str, 'hot-alerts')
 except Exception as e:
-    st.error(f"❌ Error connecting to Azure Blob Storage: {e}")
+    st.error(f"❌ Error connecting to Azure Blob Storage: {e}!")
     st.stop()
 
 # Load all alerts into a DataFrame
