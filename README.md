@@ -1,4 +1,5 @@
 # Factory Sensor (AlertWorks) – Real-Time IoT Streaming Demo
+[![Azure IoT Hub](https://img.shields.io/badge/Azure%20IoT%20Hub-Event%20Hubs-blue) ![Azure Functions](https://img.shields.io/badge/Azure%20Functions-v4-green) ![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-hot-alerts-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red) ![Power Automate](https://img.shields.io/badge/Power%20Automate-Flow-blue) ![Power BI](https://img.shields.io/badge/Power%20BI-Report-yellow) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://github.com/RajLaskar10/Factory-Sensor)
 
 ## Overview
 
