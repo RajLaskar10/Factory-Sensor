@@ -2,7 +2,7 @@
 
 ## Overview
 
-** Factory Sensor (AlertWorks)** is a playful end-to-end demo project showcasing how to build a real‑time IoT streaming pipeline with Azure and open‑source tools. It simulates machines sending telemetry, processes hot‑alert events in the cloud, stores alerts in Blob Storage, visualizes data in a Streamlit dashboard, automates notifications with Power Automate, and can be leveraged to provide executive reporting via Power BI.
+Factory Sensor (AlertWorks) is a playful end-to-end demo project showcasing how to build a real‑time IoT streaming pipeline with Azure and open‑source tools. It simulates machines sending telemetry, processes hot‑alert events in the cloud, stores alerts in Blob Storage, visualizes data in a Streamlit dashboard, automates notifications with Power Automate, and can be leveraged to provide executive reporting via Power BI.
 
 This project demonstrates learning in Azure IoT, Functions, Storage, Python web dashboards, and low‑code automations.
 
